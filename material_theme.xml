@@ -1,0 +1,17 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="1.6.1" />
+    <option name="selectedTheme" value="MONOKAI" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="highlightThickness" value="5" />
+    <option name="isContrastMode" value="true" />
+    <option name="isBoldTabs" value="true" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="customSidebarHeight" value="20" />
+    <option name="darkTitleBar" value="true" />
+    <option name="arrowsStyle" value="Plus-Minus" />
+  </component>
+</application>
