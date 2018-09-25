@@ -8,13 +8,14 @@
     <option name="isContrastMode" value="true" />
     <option name="isBoldTabs" value="true" />
     <option name="accentColor" value="80cbc4" />
-    <option name="tabsHeight" value="40" />
+    <option name="tabsHeight" value="30" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="customSidebarHeight" value="20" />
     <option name="darkTitleBar" value="true" />
     <option name="arrowsStyle" value="Plus-Minus" />
     <option name="compactDropdowns" value="true" />
+    <option name="settingsSelectedTab" value="5" />
     <option name="fileStatusColorsEnabled" value="true" />
     <option name="userId" value="16df70bf:166101b6ad3:-7ffd" />
   </component>
