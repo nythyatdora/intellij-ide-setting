@@ -4,4 +4,8 @@
     <option name="FONT_FAMILY" value="Fira Code Medium" />
     <option name="LINE_SPACING" value="1.5" />
   </component>
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
+  </component>
 </application>
