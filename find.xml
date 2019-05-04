@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Project '016-BTB-Ny-Thyatdora-HW006'" />
+    <option name="defaultScopeName" value="Project '016-BTB-Ny-Thyatdora-HW006'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project '016-BTB-Ny-Thyatdora-HW006'" />
   </component>
 </application>
