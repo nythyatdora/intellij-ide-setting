@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.6.1" />
+    <option name="version" value="2.9.6.4" />
     <option name="selectedTheme" value="MONOKAI" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
@@ -10,5 +10,7 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="arrowsStyle" value="Plus-Minus" />
+    <option name="userId" value="-53fa87fc:16aa8a40f17:-7fff" />
+    <option name="isWizardShown" value="true" />
   </component>
 </application>
