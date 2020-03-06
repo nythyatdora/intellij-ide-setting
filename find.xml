@@ -1,0 +1,7 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '.../app/Http/Controllers/api/v1/CategoriesController.php'" />
+    <option name="defaultScopeName" value="File '.../app/Http/Controllers/api/v1/CategoriesController.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Http/Controllers/api/v1/CategoriesController.php'" />
+  </component>
+</application>
