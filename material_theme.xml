@@ -1,20 +1,24 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="arrowsStyle" value="Arrows" />
-    <option name="compactDropdowns" value="true" />
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="contrastMode" value="true" />
+    <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="monochromeIcons" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="accentColor" value="ff9800" />
+    <option name="accentColor" value="63a9f1" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-2a0670a1:16afd7fc496:-7fff" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
