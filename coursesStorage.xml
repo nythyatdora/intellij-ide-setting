@@ -1,0 +1,17 @@
+<application>
+  <component name="CoursesStorage">
+    <courses>
+      <course>
+        <option name="courseMode" value="Study" />
+        <option name="description" value="You played this game when the Internet cut off, didn’t you? It is time to remember the good old days. In this project, you will create your own &quot;Minesweeper&quot; game.&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/8&lt;/a&gt;" />
+        <option name="humanLanguage" value="English" />
+        <option name="location" value="$USER_HOME$/Desktop/Minesweeper" />
+        <option name="name" value="Minesweeper" />
+        <option name="programmingLanguage" value="kotlin" />
+        <option name="tasksSolved" value="1" />
+        <option name="tasksTotal" value="5" />
+        <option name="type" value="Hyperskill" />
+      </course>
+    </courses>
+  </component>
+</application>
