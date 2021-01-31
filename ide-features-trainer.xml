@@ -19,8 +19,8 @@
         <entry key="codeassistance.parameterinfo" value="PASSED" />
         <entry key="codeassistance.quickpopups" value="PASSED" />
         <entry key="collapse" value="PASSED" />
-        <entry key="comment line" value="NOT_PASSED" />
-        <entry key="completion with tab" value="NOT_PASSED" />
+        <entry key="comment line" value="PASSED" />
+        <entry key="completion with tab" value="PASSED" />
         <entry key="context.actions" value="PASSED" />
         <entry key="debugging code. part i" value="NOT_PASSED" />
         <entry key="debugging code. part ii" value="NOT_PASSED" />
@@ -32,11 +32,11 @@
         <entry key="java.debug.workflow" value="NOT_PASSED" />
         <entry key="java.inheritance.hierarchy.lesson" value="NOT_PASSED" />
         <entry key="java.occurrences.lesson" value="NOT_PASSED" />
-        <entry key="java.refactoring.menu" value="NOT_PASSED" />
+        <entry key="java.refactoring.menu" value="PASSED" />
         <entry key="java.run.configuration" value="PASSED" />
         <entry key="move" value="PASSED" />
-        <entry key="multiple selections" value="NOT_PASSED" />
-        <entry key="postfix completion" value="NOT_PASSED" />
+        <entry key="multiple selections" value="PASSED" />
+        <entry key="postfix completion" value="PASSED" />
         <entry key="recent files and locations" value="NOT_PASSED" />
         <entry key="refactorings in a nutshell" value="NOT_PASSED" />
         <entry key="refactorings.extractmethod" value="PASSED" />
@@ -44,8 +44,8 @@
         <entry key="search everywhere" value="PASSED" />
         <entry key="secrets of efficient navigation" value="NOT_PASSED" />
         <entry key="select" value="NOT_PASSED" />
-        <entry key="smart type completion" value="NOT_PASSED" />
-        <entry key="statement completion" value="NOT_PASSED" />
+        <entry key="smart type completion" value="PASSED" />
+        <entry key="statement completion" value="PASSED" />
         <entry key="surround and unwrap" value="PASSED" />
         <entry key="the nuts and bolts of code completion" value="NOT_PASSED" />
         <entry key="the power of code inspections" value="NOT_PASSED" />
